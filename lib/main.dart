@@ -1,0 +1,26 @@
+import 'package:altai/homescreen.dart';
+import 'package:flutter/material.dart';
+import 'Calling.dart';
+
+
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatefulWidget {
+  @override
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+
+      routes: {
+        '/': (context) => Homescreen(),
+        '/Calling': (context) => Calling(),
+      },
+    );
+  }
+}
