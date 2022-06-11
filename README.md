@@ -1,16 +1,15 @@
 # altai
 
-A new Flutter project.
+For EAE portfolio
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This project includes the audioplayers (https://pub.dev/packages/audioplayers) package and dialpad package (https://pub.dev/packages/flutter_dialpad)
 
-A few resources to get you started if this is your first Flutter project:
+Most coding I've writen is in the Altai/lib/ folder
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is inspired by this video: https://www.youtube.com/watch?v=cPMVQH_Vv04
+
+
