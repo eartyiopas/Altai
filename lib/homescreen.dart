@@ -37,7 +37,7 @@ class _HomescreenState extends State<Homescreen> {
                     Navigator.pushNamed(context, '/Calling');
                   }
                   else{
-                    print('youre fucked');
+                    print('who you calling bruder');
                   }
 
               }
