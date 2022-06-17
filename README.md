@@ -1,7 +1,7 @@
 # altai
 
 For EAE portfolio
-Most original codding is in the Altai/lib/ folder
+# Most original codding is in the Altai/lib/ folder
 
 ## Getting Started
 
